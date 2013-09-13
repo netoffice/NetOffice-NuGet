@@ -1,0 +1,5 @@
+# Disable LF normalization
+* text=false
+
+# Custom for Visual Studio
+*.cs     diff=csharp
