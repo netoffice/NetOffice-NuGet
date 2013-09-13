@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetOffice.Core.Net35</id>
+        <version>1.6.0.0</version>
+        <title>NetOffice.Core.Net35</title>
+        <authors>Sebastian Lange,Caio Proiete</authors>
+        <owners>Caio Proiete</owners>
+        <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
+        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Core library for NetOffice, the .NET Wrapper Assemblies for accessing MS Office applications: Office, Excel, Word, Outlook, PowerPoint, Access, Project, Visio. This NuGet package targets the .NET Framework 3.5</description>
+        <summary>NetOffice - MS Office in .NET Core Library for .NET 3.5</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>netoffice office excel word outlook powerpoint access project visio interop wrapper .net35 vsto excel-dna</tags>
+    </metadata>
+    <files>
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\NetOffice.dll" target="lib\net35\NetOffice.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\NetOffice.xml" target="lib\net35\NetOffice.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\OfficeApi.dll" target="lib\net35\OfficeApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\OfficeApi.xml" target="lib\net35\OfficeApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\VBIDEApi.dll" target="lib\net35\VBIDEApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\VBIDEApi.xml" target="lib\net35\VBIDEApi.xml" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+    </files>
+</package>
