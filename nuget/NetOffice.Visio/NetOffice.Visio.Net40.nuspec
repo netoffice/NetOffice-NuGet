@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetOffice.Visio.Net40</id>
+        <version>1.6.0.0</version>
+        <title>NetOffice.Visio.Net40</title>
+        <authors>Sebastian Lange,Caio Proiete</authors>
+        <owners>Caio Proiete</owners>
+        <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
+        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>NetOffice Visio API, the .NET Wrapper Assemblies for accessing MS Office Visio. This NuGet package targets the .NET Framework 4.0</description>
+        <summary>NetOffice - MS Office in .NET Visio Library for .NET 4.0</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>netoffice office visio interop wrapper .net40 vsto</tags>
+        <dependencies>
+            <dependency id="NetOffice.Core.Net40" version="1.6.0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\VisioApi.dll" target="lib\net40\VisioApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\VisioApi.xml" target="lib\net40\VisioApi.xml" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+    </files>
+</package>

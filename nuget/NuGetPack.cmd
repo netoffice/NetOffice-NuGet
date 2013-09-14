@@ -47,4 +47,11 @@ nuget pack NetOffice.MSProject\NetOffice.MSProject.Net35.nuspec
 nuget pack NetOffice.MSProject\NetOffice.MSProject.Net40.nuspec
 nuget pack NetOffice.MSProject\NetOffice.MSProject.Net45.nuspec
 
+nuget pack NetOffice.Visio\NetOffice.Visio.nuspec
+nuget pack NetOffice.Visio\NetOffice.Visio.Net20.nuspec
+nuget pack NetOffice.Visio\NetOffice.Visio.Net30.nuspec
+nuget pack NetOffice.Visio\NetOffice.Visio.Net35.nuspec
+nuget pack NetOffice.Visio\NetOffice.Visio.Net40.nuspec
+nuget pack NetOffice.Visio\NetOffice.Visio.Net45.nuspec
+
 pause
