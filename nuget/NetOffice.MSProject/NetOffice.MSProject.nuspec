@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetOffice.MSProject</id>
+        <version>1.6.0.0</version>
+        <title>NetOffice.MSProject</title>
+        <authors>Sebastian Lange,Caio Proiete</authors>
+        <owners>Caio Proiete</owners>
+        <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
+        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>NetOffice MSProject API, the .NET Wrapper Assemblies for msprojecting MS Office MSProject</description>
+        <summary>NetOffice - MS Office in .NET MSProject Library</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>netoffice office msproject project interop wrapper .net20 .net30 .net35 .net40 .net45 vsto</tags>
+        <dependencies>
+            <dependency id="NetOffice.Core" version="1.6.0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\MSProjectApi.dll" target="lib\net20\MSProjectApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\MSProjectApi.xml" target="lib\net20\MSProjectApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\MSHTMLApi.dll" target="lib\net20\MSHTMLApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\MSHTMLApi.xml" target="lib\net20\MSHTMLApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.0\Assemblies\Any CPU\MSProjectApi.dll" target="lib\net30\MSProjectApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.0\Assemblies\Any CPU\MSProjectApi.xml" target="lib\net30\MSProjectApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.0\Assemblies\Any CPU\MSHTMLApi.dll" target="lib\net30\MSHTMLApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.0\Assemblies\Any CPU\MSHTMLApi.xml" target="lib\net30\MSHTMLApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\MSProjectApi.dll" target="lib\net35\MSProjectApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\MSProjectApi.xml" target="lib\net35\MSProjectApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\MSHTMLApi.dll" target="lib\net35\MSHTMLApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\MSHTMLApi.xml" target="lib\net35\MSHTMLApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\MSProjectApi.dll" target="lib\net40\MSProjectApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\MSProjectApi.xml" target="lib\net40\MSProjectApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\MSHTMLApi.dll" target="lib\net40\MSHTMLApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\MSHTMLApi.xml" target="lib\net40\MSHTMLApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSProjectApi.dll" target="lib\net45\MSProjectApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSProjectApi.xml" target="lib\net45\MSProjectApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSHTMLApi.dll" target="lib\net45\MSHTMLApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSHTMLApi.xml" target="lib\net45\MSHTMLApi.xml" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+    </files>
+</package>

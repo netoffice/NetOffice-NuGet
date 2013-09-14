@@ -40,4 +40,11 @@ nuget pack NetOffice.Access\NetOffice.Access.Net35.nuspec
 nuget pack NetOffice.Access\NetOffice.Access.Net40.nuspec
 nuget pack NetOffice.Access\NetOffice.Access.Net45.nuspec
 
+nuget pack NetOffice.MSProject\NetOffice.MSProject.nuspec
+nuget pack NetOffice.MSProject\NetOffice.MSProject.Net20.nuspec
+nuget pack NetOffice.MSProject\NetOffice.MSProject.Net30.nuspec
+nuget pack NetOffice.MSProject\NetOffice.MSProject.Net35.nuspec
+nuget pack NetOffice.MSProject\NetOffice.MSProject.Net40.nuspec
+nuget pack NetOffice.MSProject\NetOffice.MSProject.Net45.nuspec
+
 pause
