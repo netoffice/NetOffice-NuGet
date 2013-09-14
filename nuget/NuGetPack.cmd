@@ -26,4 +26,11 @@ nuget pack NetOffice.Outlook\NetOffice.Outlook.Net35.nuspec
 nuget pack NetOffice.Outlook\NetOffice.Outlook.Net40.nuspec
 nuget pack NetOffice.Outlook\NetOffice.Outlook.Net45.nuspec
 
+nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.nuspec
+nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net20.nuspec
+nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net30.nuspec
+nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net35.nuspec
+nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net40.nuspec
+nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net45.nuspec
+
 pause
