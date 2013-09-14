@@ -19,4 +19,11 @@ nuget pack NetOffice.Word\NetOffice.Word.Net35.nuspec
 nuget pack NetOffice.Word\NetOffice.Word.Net40.nuspec
 nuget pack NetOffice.Word\NetOffice.Word.Net45.nuspec
 
+nuget pack NetOffice.Outlook\NetOffice.Outlook.nuspec
+nuget pack NetOffice.Outlook\NetOffice.Outlook.Net20.nuspec
+nuget pack NetOffice.Outlook\NetOffice.Outlook.Net30.nuspec
+nuget pack NetOffice.Outlook\NetOffice.Outlook.Net35.nuspec
+nuget pack NetOffice.Outlook\NetOffice.Outlook.Net40.nuspec
+nuget pack NetOffice.Outlook\NetOffice.Outlook.Net45.nuspec
+
 pause

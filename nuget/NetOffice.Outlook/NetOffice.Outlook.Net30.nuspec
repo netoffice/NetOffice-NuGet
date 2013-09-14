@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetOffice.Outlook.Net30</id>
+        <version>1.6.0.0</version>
+        <title>NetOffice.Outlook.Net30</title>
+        <authors>Sebastian Lange,Caio Proiete</authors>
+        <owners>Caio Proiete</owners>
+        <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
+        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>NetOffice Outlook API, the .NET Wrapper Assemblies for accessing MS Office Outlook. This NuGet package targets the .NET Framework 3.0</description>
+        <summary>NetOffice - MS Office in .NET Outlook Library for .NET 3.0</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>netoffice office outlook interop wrapper .net30 vsto</tags>
+        <dependencies>
+            <dependency id="NetOffice.Core.Net30" version="1.6.0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\..\NetOffice 1.6.0\NET 3.0\Assemblies\Any CPU\OutlookApi.dll" target="lib\net30\OutlookApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 3.0\Assemblies\Any CPU\OutlookApi.xml" target="lib\net30\OutlookApi.xml" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+    </files>
+</package>
