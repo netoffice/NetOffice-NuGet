@@ -12,4 +12,11 @@ nuget pack NetOffice.Excel\NetOffice.Excel.Net35.nuspec
 nuget pack NetOffice.Excel\NetOffice.Excel.Net40.nuspec
 nuget pack NetOffice.Excel\NetOffice.Excel.Net45.nuspec
 
+nuget pack NetOffice.Word\NetOffice.Word.nuspec
+nuget pack NetOffice.Word\NetOffice.Word.Net20.nuspec
+nuget pack NetOffice.Word\NetOffice.Word.Net30.nuspec
+nuget pack NetOffice.Word\NetOffice.Word.Net35.nuspec
+nuget pack NetOffice.Word\NetOffice.Word.Net40.nuspec
+nuget pack NetOffice.Word\NetOffice.Word.Net45.nuspec
+
 pause
