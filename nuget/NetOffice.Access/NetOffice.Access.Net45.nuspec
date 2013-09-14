@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetOffice.Access.Net45</id>
+        <version>1.6.0.0</version>
+        <title>NetOffice.Access.Net45</title>
+        <authors>Sebastian Lange,Caio Proiete</authors>
+        <owners>Caio Proiete</owners>
+        <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
+        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>NetOffice Access API, the .NET Wrapper Assemblies for accessing MS Office Access. This NuGet package targets the .NET Framework 4.5</description>
+        <summary>NetOffice - MS Office in .NET Access Library for .NET 4.5</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>netoffice office access interop wrapper .net45 vsto</tags>
+        <dependencies>
+            <dependency id="NetOffice.Core.Net45" version="1.6.0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\AccessApi.dll" target="lib\net45\AccessApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\AccessApi.xml" target="lib\net45\AccessApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\DAOApi.dll" target="lib\net45\DAOApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\DAOApi.xml" target="lib\net45\DAOApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\ADODBApi.dll" target="lib\net45\ADODBApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\ADODBApi.xml" target="lib\net45\ADODBApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\OWC10Api.dll" target="lib\net45\OWC10Api.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\OWC10Api.xml" target="lib\net45\OWC10Api.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSDATASRCApi.dll" target="lib\net45\MSDATASRCApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSDATASRCApi.xml" target="lib\net45\MSDATASRCApi.xml" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSComctlLibApi.dll" target="lib\net45\MSComctlLibApi.dll" />
+        <file src="..\..\NetOffice 1.6.0\NET 4.5\Assemblies\Any CPU\MSComctlLibApi.xml" target="lib\net45\MSComctlLibApi.xml" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+    </files>
+</package>

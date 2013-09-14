@@ -33,4 +33,11 @@ nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net35.nuspec
 nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net40.nuspec
 nuget pack NetOffice.PowerPoint\NetOffice.PowerPoint.Net45.nuspec
 
+nuget pack NetOffice.Access\NetOffice.Access.nuspec
+nuget pack NetOffice.Access\NetOffice.Access.Net20.nuspec
+nuget pack NetOffice.Access\NetOffice.Access.Net30.nuspec
+nuget pack NetOffice.Access\NetOffice.Access.Net35.nuspec
+nuget pack NetOffice.Access\NetOffice.Access.Net40.nuspec
+nuget pack NetOffice.Access\NetOffice.Access.Net45.nuspec
+
 pause
