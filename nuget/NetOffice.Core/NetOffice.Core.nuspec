@@ -8,13 +8,13 @@
         <owners>Caio Proiete</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
         <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Core library for NetOffice, the .NET Wrapper Assemblies for accessing MS Office applications: Office, Excel, Word, Outlook, PowerPoint, Access, Project, Visio</description>
         <summary>NetOffice - MS Office in .NET Core Library</summary>
         <releaseNotes />
         <copyright />
-        <tags>netoffice office excel word outlook powerpoint access project visio interop wrapper .net20 .net30 .net35 .net40 .net45 vsto excel-dna</tags>
+        <tags>netoffice netoffice.core office excel word outlook powerpoint access project visio interop wrapper .net20 .net30 .net35 .net40 .net45 vsto excel-dna</tags>
     </metadata>
     <files>
         <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\NetOffice.dll" target="lib\net20\NetOffice.dll" />

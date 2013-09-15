@@ -8,13 +8,13 @@
         <owners>Caio Proiete</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
         <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice MSProject API, the .NET Wrapper Assemblies for msprojecting MS Office MSProject. This NuGet package targets the .NET Framework 3.5</description>
         <summary>NetOffice - MS Office in .NET MSProject Library for .NET 3.5</summary>
         <releaseNotes />
         <copyright />
-        <tags>netoffice office msproject project interop wrapper .net35 vsto</tags>
+        <tags>netoffice netoffice.msproject office msproject project interop wrapper .net35 vsto</tags>
         <dependencies>
             <dependency id="NetOffice.Core.Net35" version="1.6.0.0" />
         </dependencies>

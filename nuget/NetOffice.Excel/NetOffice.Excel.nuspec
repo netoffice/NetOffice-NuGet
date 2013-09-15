@@ -8,13 +8,13 @@
         <owners>Caio Proiete</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
         <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice Excel API, the .NET Wrapper Assemblies for accessing MS Office Excel</description>
         <summary>NetOffice - MS Office in .NET Excel Library</summary>
         <releaseNotes />
         <copyright />
-        <tags>netoffice office excel interop wrapper .net20 .net30 .net35 .net40 .net45 vsto excel-dna</tags>
+        <tags>netoffice netoffice.excel office excel interop wrapper .net20 .net30 .net35 .net40 .net45 vsto excel-dna</tags>
         <dependencies>
             <dependency id="NetOffice.Core" version="1.6.0.0" />
         </dependencies>

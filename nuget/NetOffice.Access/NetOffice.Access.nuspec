@@ -8,13 +8,13 @@
         <owners>Caio Proiete</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
         <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice Access API, the .NET Wrapper Assemblies for accessing MS Office Access</description>
         <summary>NetOffice - MS Office in .NET Access Library</summary>
         <releaseNotes />
         <copyright />
-        <tags>netoffice office access interop wrapper .net20 .net30 .net35 .net40 .net45 vsto</tags>
+        <tags>netoffice netoffice.access office access interop wrapper .net20 .net30 .net35 .net40 .net45 vsto</tags>
         <dependencies>
             <dependency id="NetOffice.Core" version="1.6.0.0" />
         </dependencies>

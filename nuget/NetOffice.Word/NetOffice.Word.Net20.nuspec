@@ -8,13 +8,13 @@
         <owners>Caio Proiete</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
         <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>http://caioproiete.github.io/NetOffice-NuGet/images/nuget-icon.png</iconUrl>
+        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice Word API, the .NET Wrapper Assemblies for accessing MS Office Word. This NuGet package targets the .NET Framework 2.0</description>
         <summary>NetOffice - MS Office in .NET Word Library for .NET 2.0</summary>
         <releaseNotes />
         <copyright />
-        <tags>netoffice office word interop wrapper .net20 vsto</tags>
+        <tags>netoffice netoffice.word office word interop wrapper .net20 vsto</tags>
         <dependencies>
             <dependency id="NetOffice.Core.Net20" version="1.6.0.0" />
         </dependencies>
