@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.Core.Net35</id>
-        <version>1.6.0.0</version>
+        <version>1.7.2.0</version>
         <title>NetOffice.Core.Net35</title>
         <authors>Sebastian Lange,Caio Proiete</authors>
         <owners>Caio Proiete</owners>
@@ -17,12 +17,12 @@
         <tags>netoffice netoffice.core office excel word outlook powerpoint access project visio interop wrapper .net35 vsto excel-dna</tags>
     </metadata>
     <files>
-        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\NetOffice.dll" target="lib\net35\NetOffice.dll" />
-        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\NetOffice.xml" target="lib\net35\NetOffice.xml" />
-        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\OfficeApi.dll" target="lib\net35\OfficeApi.dll" />
-        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\OfficeApi.xml" target="lib\net35\OfficeApi.xml" />
-        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\VBIDEApi.dll" target="lib\net35\VBIDEApi.dll" />
-        <file src="..\..\NetOffice 1.6.0\NET 3.5\Assemblies\Any CPU\VBIDEApi.xml" target="lib\net35\VBIDEApi.xml" />
+        <file src="..\..\NetOffice 1.7.2\NET 3.5\Assemblies\Any CPU\NetOffice.dll" target="lib\net35\NetOffice.dll" />
+        <file src="..\..\NetOffice 1.7.2\NET 3.5\Assemblies\Any CPU\NetOffice.xml" target="lib\net35\NetOffice.xml" />
+        <file src="..\..\NetOffice 1.7.2\NET 3.5\Assemblies\Any CPU\OfficeApi.dll" target="lib\net35\OfficeApi.dll" />
+        <file src="..\..\NetOffice 1.7.2\NET 3.5\Assemblies\Any CPU\OfficeApi.xml" target="lib\net35\OfficeApi.xml" />
+        <file src="..\..\NetOffice 1.7.2\NET 3.5\Assemblies\Any CPU\VBIDEApi.dll" target="lib\net35\VBIDEApi.dll" />
+        <file src="..\..\NetOffice 1.7.2\NET 3.5\Assemblies\Any CPU\VBIDEApi.xml" target="lib\net35\VBIDEApi.xml" />
         <file src="tools\install.ps1" target="tools\install.ps1" />
     </files>
 </package>

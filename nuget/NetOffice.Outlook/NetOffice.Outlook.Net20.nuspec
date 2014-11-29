@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.Outlook.Net20</id>
-        <version>1.6.0.0</version>
+        <version>1.7.2.0</version>
         <title>NetOffice.Outlook.Net20</title>
         <authors>Sebastian Lange,Caio Proiete</authors>
         <owners>Caio Proiete</owners>
@@ -16,12 +16,12 @@
         <copyright />
         <tags>netoffice netoffice.outlook office outlook interop wrapper .net20 vsto</tags>
         <dependencies>
-            <dependency id="NetOffice.Core.Net20" version="1.6.0.0" />
+            <dependency id="NetOffice.Core.Net20" version="1.7.2.0" />
         </dependencies>
     </metadata>
     <files>
-        <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\OutlookApi.dll" target="lib\net20\OutlookApi.dll" />
-        <file src="..\..\NetOffice 1.6.0\NET 2.0\Assemblies\Any CPU\OutlookApi.xml" target="lib\net20\OutlookApi.xml" />
+        <file src="..\..\NetOffice 1.7.2\NET 2.0\Assemblies\Any CPU\OutlookApi.dll" target="lib\net20\OutlookApi.dll" />
+        <file src="..\..\NetOffice 1.7.2\NET 2.0\Assemblies\Any CPU\OutlookApi.xml" target="lib\net20\OutlookApi.xml" />
         <file src="tools\install.ps1" target="tools\install.ps1" />
     </files>
 </package>

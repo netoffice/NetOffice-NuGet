@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.Visio.Net40</id>
-        <version>1.6.0.0</version>
+        <version>1.7.2.0</version>
         <title>NetOffice.Visio.Net40</title>
         <authors>Sebastian Lange,Caio Proiete</authors>
         <owners>Caio Proiete</owners>
@@ -16,12 +16,12 @@
         <copyright />
         <tags>netoffice netoffice.visio office visio interop wrapper .net40 vsto</tags>
         <dependencies>
-            <dependency id="NetOffice.Core.Net40" version="1.6.0.0" />
+            <dependency id="NetOffice.Core.Net40" version="1.7.2.0" />
         </dependencies>
     </metadata>
     <files>
-        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\VisioApi.dll" target="lib\net40\VisioApi.dll" />
-        <file src="..\..\NetOffice 1.6.0\NET 4.0\Assemblies\Any CPU\VisioApi.xml" target="lib\net40\VisioApi.xml" />
+        <file src="..\..\NetOffice 1.7.2\NET 4.0\Assemblies\Any CPU\VisioApi.dll" target="lib\net40\VisioApi.dll" />
+        <file src="..\..\NetOffice 1.7.2\NET 4.0\Assemblies\Any CPU\VisioApi.xml" target="lib\net40\VisioApi.xml" />
         <file src="tools\install.ps1" target="tools\install.ps1" />
     </files>
 </package>
