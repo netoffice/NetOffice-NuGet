@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetOffice.MSFormsApi.Net40</id>
+        <version>1.7.3.0</version>
+        <title>NetOffice.MSFormsApi.Net40</title>
+        <authors>Sebastian Lange,Caio Proiete</authors>
+        <owners>Caio Proiete</owners>
+        <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
+        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>NetOffice MSFormsApi API, the .NET Wrapper Assemblies for accessing MS Office MSFormsApi. This NuGet package targets the .NET Framework 4.0</description>
+        <summary>NetOffice - MS Office in .NET MSFormsApi Library for .NET 4.0</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>netoffice netoffice.msformsapi office msformsapi interop wrapper .net40 vsto</tags>
+        <dependencies>
+            <dependency id="NetOffice.Core.Net40" version="1.7.3.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\..\NetOffice\NET 4.0\Assemblies\Any CPU\MSFormsApi.dll" target="lib\net40\MSFormsApi.dll" />
+        <file src="..\..\NetOffice\NET 4.0\Assemblies\Any CPU\MSFormsApi.xml" target="lib\net40\MSFormsApi.xml" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+    </files>
+</package>

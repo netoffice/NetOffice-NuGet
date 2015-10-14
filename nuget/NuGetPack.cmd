@@ -12,6 +12,13 @@ nuget pack NetOffice.Excel\NetOffice.Excel.Net35.nuspec
 nuget pack NetOffice.Excel\NetOffice.Excel.Net40.nuspec
 nuget pack NetOffice.Excel\NetOffice.Excel.Net45.nuspec
 
+nuget pack NetOffice.MSFormsApi\NetOffice.MSFormsApi.nuspec
+nuget pack NetOffice.MSFormsApi\NetOffice.MSFormsApi.Net20.nuspec
+nuget pack NetOffice.MSFormsApi\NetOffice.MSFormsApi.Net30.nuspec
+nuget pack NetOffice.MSFormsApi\NetOffice.MSFormsApi.Net35.nuspec
+nuget pack NetOffice.MSFormsApi\NetOffice.MSFormsApi.Net40.nuspec
+nuget pack NetOffice.MSFormsApi\NetOffice.MSFormsApi.Net45.nuspec
+
 nuget pack NetOffice.Word\NetOffice.Word.nuspec
 nuget pack NetOffice.Word\NetOffice.Word.Net20.nuspec
 nuget pack NetOffice.Word\NetOffice.Word.Net30.nuspec

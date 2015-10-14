@@ -15,6 +15,13 @@ nuget.exe push NetOffice.Excel.Net35.%PackageVersion%.nupkg
 nuget.exe push NetOffice.Excel.Net40.%PackageVersion%.nupkg
 nuget.exe push NetOffice.Excel.Net45.%PackageVersion%.nupkg
 
+nuget.exe push NetOffice.MSFormsApi.%PackageVersion%.nupkg
+nuget.exe push NetOffice.MSFormsApi.Net20.%PackageVersion%.nupkg
+nuget.exe push NetOffice.MSFormsApi.Net30.%PackageVersion%.nupkg
+nuget.exe push NetOffice.MSFormsApi.Net35.%PackageVersion%.nupkg
+nuget.exe push NetOffice.MSFormsApi.Net40.%PackageVersion%.nupkg
+nuget.exe push NetOffice.MSFormsApi.Net45.%PackageVersion%.nupkg
+
 nuget.exe push NetOffice.Word.%PackageVersion%.nupkg
 nuget.exe push NetOffice.Word.Net20.%PackageVersion%.nupkg
 nuget.exe push NetOffice.Word.Net30.%PackageVersion%.nupkg
