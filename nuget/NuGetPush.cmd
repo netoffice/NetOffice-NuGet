@@ -1,5 +1,5 @@
 setlocal
-set PackageVersion=1.7.2.0
+set PackageVersion=1.7.3.0
 
 nuget.exe push NetOffice.Core.%PackageVersion%.nupkg
 nuget.exe push NetOffice.Core.Net20.%PackageVersion%.nupkg

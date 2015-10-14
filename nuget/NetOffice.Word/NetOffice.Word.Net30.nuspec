@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.Word.Net30</id>
-        <version>1.7.2.0</version>
+        <version>1.7.3.0</version>
         <title>NetOffice.Word.Net30</title>
         <authors>Sebastian Lange,Caio Proiete</authors>
         <owners>Caio Proiete</owners>
@@ -16,12 +16,12 @@
         <copyright />
         <tags>netoffice netoffice.word office word interop wrapper .net30 vsto</tags>
         <dependencies>
-            <dependency id="NetOffice.Core.Net30" version="1.7.2.0" />
+            <dependency id="NetOffice.Core.Net30" version="1.7.3.0" />
         </dependencies>
     </metadata>
     <files>
-        <file src="..\..\NetOffice 1.7.2\NET 3.0\Assemblies\Any CPU\WordApi.dll" target="lib\net30\WordApi.dll" />
-        <file src="..\..\NetOffice 1.7.2\NET 3.0\Assemblies\Any CPU\WordApi.xml" target="lib\net30\WordApi.xml" />
+        <file src="..\..\NetOffice\NET 3.0\Assemblies\Any CPU\WordApi.dll" target="lib\net30\WordApi.dll" />
+        <file src="..\..\NetOffice\NET 3.0\Assemblies\Any CPU\WordApi.xml" target="lib\net30\WordApi.xml" />
         <file src="tools\install.ps1" target="tools\install.ps1" />
     </files>
 </package>
