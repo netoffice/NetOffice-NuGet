@@ -1,2 +1,6 @@
 #Ignore thumbnails created by Windows
 Thumbs.db
+
+#Ignore metadata created by OSX
+.DS_Store
+._*

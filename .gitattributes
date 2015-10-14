@@ -1,5 +1,31 @@
-# Disable LF normalization
-* text=false
+# Set the default behavior, in case people don't have core.autocrlf set
+* text=auto
 
-# Custom for Visual Studio
-*.cs     diff=csharp
+# Explicitly declare files that should always be normalized and converted to native line endings on checkout
+*.sln text
+*.csproj text
+*.cs text
+*.cshtml text
+*.js text
+*.css text
+*.config text
+*.resx text
+*.xaml text
+*.settings text
+*.sql text
+*.md text
+
+# Explicitly declare files that should always be converted to LF regardless of platform
+*.dotsettings text eol=lf
+
+# Explicitly declare files that should to be handled as binaries
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.png binary
+*.exe binary
+*.dll binary
+*.nupkg binary
+*.ttf binary
+*.eof binary
+*.eot binary
