@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.MSProject.Net40</id>
-        <version>1.7.3.0</version>
+        <version>1.7.4.4</version>
         <title>NetOffice.MSProject.Net40</title>
-        <authors>Sebastian Lange,Caio Proiete</authors>
-        <owners>Caio Proiete</owners>
+        <authors>Sebastian Lange,Erika LeBlanc</authors>
+        <owners>netofficedotnet</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
-        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
+        <projectUrl>https://github.com/NetOffice/NetOffice-NuGet</projectUrl>
+        <iconUrl>https://raw.github.com/NetOffice/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice MSProject API, the .NET Wrapper Assemblies for msprojecting MS Office MSProject. This NuGet package targets the .NET Framework 4.0</description>
         <summary>NetOffice - MS Office in .NET MSProject Library for .NET 4.0</summary>
@@ -16,7 +16,7 @@
         <copyright />
         <tags>netoffice netoffice.msproject office msproject project interop wrapper .net40 vsto</tags>
         <dependencies>
-            <dependency id="NetOffice.Core.Net40" version="1.7.3.0" />
+            <dependency id="NetOffice.Core.Net40" version="1.7.4.4" />
         </dependencies>
     </metadata>
     <files>

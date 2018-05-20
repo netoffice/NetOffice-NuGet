@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.PowerPoint.Net45</id>
-        <version>1.7.3.0</version>
+        <version>1.7.4.4</version>
         <title>NetOffice.PowerPoint.Net45</title>
-        <authors>Sebastian Lange,Caio Proiete</authors>
-        <owners>Caio Proiete</owners>
+        <authors>Sebastian Lange,Erika LeBlanc</authors>
+        <owners>netofficedotnet</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
-        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
+        <projectUrl>https://github.com/NetOffice/NetOffice-NuGet</projectUrl>
+        <iconUrl>https://raw.github.com/NetOffice/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice PowerPoint API, the .NET Wrapper Assemblies for accessing MS Office PowerPoint. This NuGet package targets the .NET Framework 4.5</description>
         <summary>NetOffice - MS Office in .NET PowerPoint Library for .NET 4.5</summary>
@@ -16,7 +16,7 @@
         <copyright />
         <tags>netoffice netoffice.powerpoint office powerpoint interop wrapper .net45 vsto</tags>
         <dependencies>
-            <dependency id="NetOffice.Core.Net45" version="1.7.3.0" />
+            <dependency id="NetOffice.Core.Net45" version="1.7.4.4" />
         </dependencies>
     </metadata>
     <files>

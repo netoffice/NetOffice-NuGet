@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>NetOffice.MSFormsApi</id>
-        <version>1.7.3.0</version>
+        <version>1.7.4.4</version>
         <title>NetOffice.MSFormsApi</title>
-        <authors>Sebastian Lange,Caio Proiete</authors>
-        <owners>Caio Proiete</owners>
+        <authors>Sebastian Lange,Erika LeBlanc</authors>
+        <owners>netofficedotnet</owners>
         <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
-        <projectUrl>https://github.com/CaioProiete/NetOffice-NuGet</projectUrl>
-        <iconUrl>https://raw.github.com/CaioProiete/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
+        <projectUrl>https://github.com/NetOffice/NetOffice-NuGet</projectUrl>
+        <iconUrl>https://raw.github.com/NetOffice/NetOffice-NuGet/gh-pages/images/netoffice-100x100.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>NetOffice MSFormsApi API, the .NET Wrapper Assemblies for accessing MS Office MSFormsApi</description>
         <summary>NetOffice - MS Office in .NET MSFormsApi Library</summary>
@@ -16,7 +16,7 @@
         <copyright />
         <tags>netoffice netoffice.msformsapi office msformsapi interop wrapper .net20 .net30 .net35 .net40 .net45 vsto</tags>
         <dependencies>
-            <dependency id="NetOffice.Core" version="1.7.3.0" />
+            <dependency id="NetOffice.Core" version="1.7.4.4" />
         </dependencies>
     </metadata>
     <files>
