@@ -1,11 +1,11 @@
-# NetOffice-NuGet
+# NetOffice-NuGet [![NuGet Version](http://img.shields.io/nuget/v/NetOffice.Core.svg?style=flat)](https://www.nuget.org/profiles/netofficedotnet) [![Help](https://img.shields.io/badge/stackoverflow-netoffice-orange.svg)](http://stackoverflow.com/questions/tagged/netoffice)
 
-NuGet Packages for NetOffice - http://netoffice.codeplex.com
+NuGet Packages for NetOffice - https://github.com/netoffice/NetOffice
 
 
 ## Introduction
 
-> [NetOffice](http://netoffice.codeplex.com) is a set of .NET Wrapper Assemblies for accessing MS Office applications such as Excel, Word, Outlook, PowerPoint, Access, Project, and Visio developed by [Sebastian Lange](http://www.codeplex.com/site/users/view/SebastianDotNet).
+> [NetOffice](https://github.com/netoffice/NetOffice) is a set of .NET Wrapper Assemblies for accessing MS Office applications such as Excel, Word, Outlook, PowerPoint, Access, Project, and Visio developed by [Sebastian Lange](https://github.com/SebastianDotNet) and maintained by [Erika LeBlanc](https://github.com/erikaleblanc88).
 
 ## NuGet Packages Available
 
