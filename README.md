@@ -122,19 +122,11 @@ The alternative packages below contain only assemblies targeting a specific vers
 |                                                                                                                                                             | [**NetOffice.Core.Net40**](https://www.nuget.org/packages/NetOffice.Core.Net40/) | Targets the .NET Framework 4.0 |
 |                                                                                                                                                             | [**NetOffice.Core.Net45**](https://www.nuget.org/packages/NetOffice.Core.Net45/) | Targets the .NET Framework 4.5 |
 
-## Release History
-
- * **v1.7.3.0** - 2015-10-13
-   - Contains assemblies of NetOffice 1.7.3 released on Wed Feb 25, 2015 at 4:00 AM
-
- * **v1.7.2.0** - 2014-11-29
-   - Contains assemblies of NetOffice 1.7.2 released on Sat Nov 29, 2014 at 4:00 AM
-
- * **v1.6.0.0** - 2013-09-14
-   - Contains assemblies of NetOffice 1.6.0 released on Sat Jun 29, 2013 at 4:00 AM
-
 ## License   
-> Copyright (c) 2011 Sebastian Lange
+
+> Copyright (c) 2011-2015 Sebastian Lange
+> 
+> Copyright (c) 2015-2020 Erika LeBlanc
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
